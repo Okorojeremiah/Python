@@ -1,0 +1,10 @@
+print(abs(-1))
+print(max(2, 5))
+print(min(1, 2))
+print(pow(3, 2))
+
+print(bool(0))
+print(bool(-1))
+print(bool(True))
+print(bool([]))
+print(bool(None))
